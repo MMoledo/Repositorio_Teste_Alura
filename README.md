@@ -2,6 +2,7 @@
 
 > Status do projeto: Em desenvolvimento
 
-'''
+
+```
 pip install discord.py
-'''
+```
